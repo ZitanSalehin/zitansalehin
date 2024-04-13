@@ -1,4 +1,3 @@
-[![Masterhead](https://cdn-learn.adafruit.com/assets/assets/000/112/622/medium800/programming_GitHub_logo_with_mark.png?1656187481)](https://github.com/ZitanSalehin/ZitanSalehin)
 <h1 align="center">Hi 👋, I'm Zitan Salehin</h1>
 <h3 align="center">A passionate problem solver.</h3>
 
