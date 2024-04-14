@@ -8,7 +8,7 @@
 
 - 💬 My Codewars account: [Codewars](https://www.codewars.com/users/zitan1)
 
-- 💬 I’m currently learning **DSA, Competitive programming, Javascript, React, NextJs, NodeJs, ExpressJs, MongoDB**
+- 💬 I’m currently learning **Javascript, DSA, React, NextJs, NodeJs, ExpressJs, MongoDB**
 
 - 💬 All of my projects are available at <br/> [https://zitansfolio.vercel.app/](https://zitansfolio.vercel.app/)
 
