@@ -10,7 +10,7 @@
 
 - 💬 I’m currently learning **DSA, Competitive programming, Javascript, React, NextJs, NodeJs, ExpressJs, MongoDB**
 
-- 💬 All of my projects are available at [https://zitansfolio.vercel.app/](https://zitansfolio.vercel.app/)
+- 💬 All of my projects are available at <br/> [https://zitansfolio.vercel.app/](https://zitansfolio.vercel.app/)
 
 - 📫 How to reach me **zitansalehin123@gmail.com**
 
