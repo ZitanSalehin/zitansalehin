@@ -8,7 +8,7 @@
 
 - 💬 My Codewars account: [Codewars](https://www.codewars.com/users/zitan1)
 
-- 💬 My Medium account: [Medium](https://medium.com/@zitansalehin)
+- 💬 My articles on Medium: [Medium](https://medium.com/@zitansalehin)
 
 - 💬 I’m currently learning <br/> **Javascript, DSA, React, NextJs, NodeJs, ExpressJs, MongoDB**
 
